@@ -1,2 +1,2 @@
 # Initial-git
-Initial practice
+Initial practice for git
